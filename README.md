@@ -2,13 +2,18 @@
 
 Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System 
 
-  - Install
-      - Dependency
-          - glfw.3.3.0
-          - opencv4.10
-          - cudnn64.7
-          - dnn_model_2_0.onnx
-![image](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/2be909cd-b764-43f3-9855-64346c0ac228)
+- Dependency
+  - glfw.3.3.0
+  - opencv4.10
+  - cudnn64.7
+  - dnn_model_2_0.onnx
+
+- update code 
+    - /code/simple_3d_viewer  Optimizer Code
+    - /code/sample_helper_libs/window_controller_3d  Rendering Code
+    - Please also note that to use the Body Tracking SDK(Azure Kinect Body Tracking SDK download | Microsoft Learn)       with Unreal, make sure you have added <SDK Installation Path>\tools to the environment variable PATH and     
+      copied dnn_model_2_0.onnx and cudnn64_7.dll Release Folder 
+
 
 
 
