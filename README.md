@@ -1,7 +1,4 @@
 # 3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System
-
-Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System 
-
 - Requirements
   - Dependency
     - glfw.3.3.0
