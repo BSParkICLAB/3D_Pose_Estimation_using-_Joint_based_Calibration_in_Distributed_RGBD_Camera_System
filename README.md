@@ -2,27 +2,27 @@
 
 Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System 
 
-- Dependency
-  - glfw.3.3.0
-  - opencv4.10
-  - cudnn64.7
-  - dnn_model_2_0.onnx
+- Requirements
+  - Dependency
+    - glfw.3.3.0
+    - opencv4.10
+    - cudnn64.7
+    - dnn_model_2_0.onnx
  
-- Install
-  - Azure Kinect DK Code Samples Repository
-  - https://github.com/microsoft/Azure-Kinect-Samples/tree/master/body-tracking-samples
+  - Install
+    - Azure Kinect DK Code Samples Repository
+    - https://github.com/microsoft/Azure-Kinect-Samples/tree/master/body-tracking-samples
+    - Azure Kinect Body Tracking SDK
+    - https://learn.microsoft.com/en-us/azure/kinect-dk/body-sdk-download
 
-  - Azure Kinect Body Tracking SDK
-  - https://learn.microsoft.com/en-us/azure/kinect-dk/body-sdk-download
-
-- update code 
-    - /code/simple_3d_viewer -> Optimizer Code
-    - /code/sample_helper_libs/window_controller_3d -> Rendering Code
-    - Please also note that to use the Body Tracking SDK with Unreal, make sure you have added <SDK Installation          Path\tools to the environment variable PATH and copied dnn_model_2_0.onnx and cudnn64_7.dll Release Folder
-
+  - update code 
+      - /code/simple_3d_viewer -> Optimizer Code
+      - /code/sample_helper_libs/window_controller_3d -> Rendering Code
+      - Please also note that to use the Body Tracking SDK with Unreal, make sure you have added <SDK Installation          Path\tools to the environment variable PATH and copied dnn_model_2_0.onnx and cudnn64_7.dll Release Folder
 
 
-Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8G_0Ay_cT4fQUZ4k?usp=sharing
+
+- Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8G_0Ay_cT4fQUZ4k?usp=sharing
 
   - Dataset structure
       - Dataset_A_JH,HB (each 50 images x 8camera)
