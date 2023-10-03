@@ -10,7 +10,7 @@ Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8
           - Pointcloud
           - RGB
           - Depth
-      - Dataset_B_JH,HB (each 1011,1035 images)
+      - Dataset_B_JH,HB (each 1000 images)
           - RBG
           - Depth
       
