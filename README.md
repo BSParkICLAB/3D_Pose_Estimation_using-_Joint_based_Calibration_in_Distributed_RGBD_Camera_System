@@ -19,8 +19,7 @@ Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Ca
       - /code/simple_3d_viewer -> Optimizer Code
       - /code/sample_helper_libs/window_controller_3d -> Rendering Code
       - Please also note that to use the Body Tracking SDK with Unreal, make sure you have added <SDK Installation          Path\tools to the environment variable PATH and copied dnn_model_2_0.onnx and cudnn64_7.dll Release Folder
-
-        <br/><br/><br/>
+        <br/><br/>
 - Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8G_0Ay_cT4fQUZ4k?usp=sharing
 
   - Dataset structure
@@ -32,6 +31,7 @@ Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Ca
       - Dataset_B_JH,HB (each 1000 images x 8camera)
           - RGB
           - Depth
+<br/><br/>
       
 
 ![introduction-01](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/2907afe2-b6ea-4dae-b1e8-890fb360d772)
