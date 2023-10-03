@@ -1,5 +1,8 @@
 # 3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System
 
+Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System
+Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8G_0Ay_cT4fQUZ4k?usp=sharing
+
 ![introduction-01](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/2907afe2-b6ea-4dae-b1e8-890fb360d772)
 ![introduction-02](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/92b31a45-fb35-4b4b-813f-7e4511597146)
 ![introduction-03](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/3a5e1cc1-2f65-4682-be1f-da363a04158e)
