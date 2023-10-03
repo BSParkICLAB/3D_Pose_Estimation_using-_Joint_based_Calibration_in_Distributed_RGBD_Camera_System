@@ -5,12 +5,12 @@ Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Ca
 Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8G_0Ay_cT4fQUZ4k?usp=sharing
 
   - Dataset structure
-      - Dataset_A_JH,HB (each 50 images)
+      - Dataset_A_JH,HB (each 50 images x 8camera)
           - Joint
           - Pointcloud
           - RGB
           - Depth
-      - Dataset_B_JH,HB (each 1000 images)
+      - Dataset_B_JH,HB (each 1000 images x 8camera)
           - RGB
           - Depth
       
