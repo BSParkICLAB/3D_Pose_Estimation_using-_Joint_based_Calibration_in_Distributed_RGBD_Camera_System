@@ -11,7 +11,7 @@ Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8
           - RGB
           - Depth
       - Dataset_B_JH,HB (each 1000 images)
-          - RBG
+          - RGB
           - Depth
       
 
