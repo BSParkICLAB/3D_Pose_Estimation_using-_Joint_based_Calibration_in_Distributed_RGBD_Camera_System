@@ -17,7 +17,7 @@ Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Ca
 - update code 
     - /code/simple_3d_viewer  Optimizer Code
     - /code/sample_helper_libs/window_controller_3d  Rendering Code
-    - Please also note that to use the Body Tracking SDK(Azure Kinect Body Tracking SDK download | Microsoft Learn)       with Unreal, make sure you have added <SDK Installation Path>\tools to the environment variable PATH and     
+    - Please also note that to use the Body Tracking SDK(Azure Kinect Body Tracking SDK download | Microsoft Learn)       with Unreal, make sure you have added <SDK Installation Path(https://learn.microsoft.com/en-us/azure/kinect-dk/body-sdk-download)>\tools to the environment variable PATH and     
       copied dnn_model_2_0.onnx and cudnn64_7.dll Release Folder
 
 
