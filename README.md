@@ -4,6 +4,17 @@ Github : https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Ca
 
 Dataset Google Drive : https://drive.google.com/drive/folders/18NpBvNmxNJI5xuTJ8G_0Ay_cT4fQUZ4k?usp=sharing
 
+  - Dataset structure
+      - Dataset_A_JH,HB (each 50 images)
+          - Joint
+          - Pointcloud
+          - RGB
+          - Depth
+      - Dataset_B_JH,HB (each 1011,1035 images)
+          - RBG
+          - Depth
+      
+
 ![introduction-01](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/2907afe2-b6ea-4dae-b1e8-890fb360d772)
 ![introduction-02](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/92b31a45-fb35-4b4b-813f-7e4511597146)
 ![introduction-04](https://github.com/BSParkICLAB/3D_Pose_Estimation_using-_Joint_based_Calibration_in_Distributed_RGBD_Camera_System/assets/146613437/1026ece1-82c4-48a0-960d-adf68e2b7f27)
